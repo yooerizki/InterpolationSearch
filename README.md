@@ -1,14 +1,11 @@
-## Getting Started
+# Interpolation Search
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+###### ALGORITMA PEMROGRAMAN ######
+## INTERPOLATION SEARCH ##
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+Sebuah program dinamis (berdasarkan input user) untuk
+memasukkan data angka. Kemudian lakukan sorting dengan menggunakan
+algortima sorting yang telah dipelajari. Setelah itu lakukan pencarian data
+dengan menggunakan algoritma interpolation search.
